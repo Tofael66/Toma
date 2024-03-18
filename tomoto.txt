@@ -2,3 +2,4 @@
  ami tomi branch kisu add korkam
 add edit some extra feature 
 again fix this issues
+add a new text for conflict texting
