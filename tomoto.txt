@@ -1,3 +1,4 @@
  this is tomoto file
  ami tomi branch kisu add korkam
 add edit some extra feature 
+again fix this issues
